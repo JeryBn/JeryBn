@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">JeryBn | Diseño y Desarrollo de Software</title>
+  <desc id="desc">Banner azul oscuro con detalles celestes, un símbolo de código y la frase Aprender. Construir. Mejorar.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b32"/><stop offset="1" stop-color="#112c43"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+  </defs>
+  <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+  <path d="M810 0V330M900 0V330M990 0V330M1080 0V330M1170 0V330M750 60H1200M750 150H1200M750 240H1200" stroke="#a5c9ee" stroke-opacity=".08"/>
+  <circle cx="1045" cy="165" r="116" fill="none" stroke="#60a5fa" stroke-opacity=".22"/>
+  <circle cx="1045" cy="165" r="91" fill="#10243a" stroke="#5eead4" stroke-opacity=".3"/>
+  <path d="M1007 136L974 165L1007 194M1083 136L1116 165L1083 194M1056 126L1034 204" fill="none" stroke="url(#accent)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="56" y="49" width="44" height="5" rx="2.5" fill="#5eead4"/>
+  <text x="56" y="114" fill="#f1f5f9" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">JeryBn</text>
+  <text x="58" y="158" fill="#b9d5f3" font-family="Segoe UI, Arial, sans-serif" font-size="27">Diseño y Desarrollo de Software</text>
+  <text x="58" y="205" fill="#5eead4" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">APRENDER. CONSTRUIR. MEJORAR.</text>
+  <rect x="56" y="246" width="109" height="34" rx="17" fill="#1d3650"/>
+  <rect x="177" y="246" width="175" height="34" rx="17" fill="#1d3650"/>
+  <rect x="364" y="246" width="128" height="34" rx="17" fill="#1d3650"/>
+  <g fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="16" text-anchor="middle"><text x="110" y="269">WEB</text><text x="264" y="269">BASES DE DATOS</text><text x="428" y="269">MÓVILES</text></g>
+</svg>
